@@ -7,7 +7,6 @@ import Home from './pages/Home';
 const Stack = createStackNavigator();
 
 export default function Routes() {
-
   return (
     <NavigationContainer>
       <Stack.Navigator>
